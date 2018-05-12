@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '37381'
     url: http://www.gutenberg.org/2009/agents/37381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34997#A-Narrative-of-the-expedition-of-Hernando-de-Soto-into-Florida-published-at-Evora-in-1557
 gutenberg_issued: '2011-01-18'
 gutenberg_type: Text
 identifiers:
